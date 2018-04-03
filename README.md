@@ -1,4 +1,10 @@
 ﻿# jnlp-slave-dotnet
+ 
+ ## Usage
+ 
+ See [jenkins/jnlp-slave](https://hub.docker.com/r/jenkins/jnlp-slave/)
+ 
+ ## Version
 
 Adds dotnet core support with version: -
 
